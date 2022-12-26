@@ -1,0 +1,25 @@
+{
+    "grid":[
+        {
+            "title":"SEO",
+            "description":"long text",
+            "link":"/"
+        },
+        {
+            "title":"Code",
+            "description":"long text",
+            "link":"/"
+        },
+        {
+            "title":"Blog",
+            "description":"long text",
+            "link":"/"
+        },
+        {
+            "title":"Youtube",
+            "description":"long text",
+            "link":"/"
+        }
+
+    ]
+}
